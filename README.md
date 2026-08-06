@@ -1,155 +1,171 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=220&amp;section=header&amp;text=Soumyaranjan%20404&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Soumyaranjan%20404&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/soumyaranjan404">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Microservices+%E2%98%95;Building+Scalable%2C+Clean+APIs+%F0%9F%9A%80;Code+Quality+with+SonarQube+%E2%9C%85;Open+to+Collaboration+%F0%9F%A4%9D&amp;font=Fira%20Code&amp;center=true&amp;width=600&amp;height=45&amp;duration=3000&amp;pause=1000&amp;color=1BFFFF&amp;vCenter=true&amp;size=24"/>
-</a>
+# Hi 👋 I'm Soumyaranjan
 
-<br/>
+### Java Backend Developer | Spring Boot | PostgreSQL | REST APIs
 
-<img src="https://komarev.com/ghpvc/?username=soumyaranjan404&amp;label=Profile%20Views&amp;color=1BFFFF&amp;style=flat-square"/>
-<img src="https://img.shields.io/github/followers/soumyaranjan404?label=Followers&amp;style=flat-square&amp;color=2E3192"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Developer;Learning+Microservices;Building+REST+APIs;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=soumyaranjan404&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```java
 public class Soumyaranjan {
-    private String role = "Backend Developer";
-    private String[] skills = {
-        "Java", "Spring Boot Microservices", "PostgreSQL",
-        "REST APIs", "SonarQube Code Quality"
+
+    private final String role = "Java Backend Developer";
+
+    private final String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "REST APIs",
+        "PostgreSQL",
+        "MySQL",
+        "Git"
     };
-    private String[] currentlyLearning = {"Spring Security (JWT)", "Docker", "API Gateway"};
-    private boolean openToCollaborate = true;
+
+    private final String[] learning = {
+        "Spring Boot Microservices",
+        "Spring Security",
+        "Docker",
+        "API Gateway"
+    };
 
     public String motto() {
-        return "Keep learning, keep building, and let your projects speak for your skills.";
+        return "Keep learning. Keep building.";
     }
 }
 ```
 
-- ✅ Experienced in building **Spring Boot Microservices**
-- ✅ Maintaining code quality with **SonarQube**
-- 💾 Working with **PostgreSQL**, **Spring Data JPA**, and **REST APIs**
-- 🔧 Exploring **Docker**, **API Gateway**, and **Service Discovery**
-- 📚 Continuously improving my backend development skills
+- 💻 Building backend applications using Java and Spring Boot
+- 🌱 Currently learning Spring Boot Microservices
+- 💾 Working with PostgreSQL, MySQL and Spring Data JPA
+- 🔥 Passionate about clean code and scalable backend architecture
+- 🤝 Open to learning and collaboration
 
-<br/>
+---
 
-## 🚀 Tech Stack
-
-<div align="center">
+# 🚀 Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,postgres,mysql&amp;theme=dark" />
 
-### Backend & Frameworks
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql,postgresql" />
+</p>
 
-### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+### Backend
 
-### Code Quality & DevOps
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-Learning-success?style=for-the-badge"/>
+</p>
 
-</div>
+### Tools
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker" />
+</p>
 
-## 📂 Featured Projects
+---
 
-<div align="center">
+# 📂 Featured Projects
 
-<a href="https://github.com/soumyaranjan404">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyaranjan404&amp;repo=book-management-microservice&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
-<a href="https://github.com/soumyaranjan404">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyaranjan404&amp;repo=recipe-management-system&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
+## 📚 Book Management
 
-</div>
+Spring Boot backend application for managing books using REST APIs and PostgreSQL.
 
-> 📝 **Note:** Update the `repo=` values above with your exact repository names so the cards pull live data from GitHub.
+**Tech Stack**
 
-### 📚 Book Management Microservice
-A Spring Boot microservices application for managing books using REST APIs.
+- Java
+- Spring Boot
+- PostgreSQL
+- Spring Data JPA
+- Maven
 
-`Spring Boot` • `Microservices` • `PostgreSQL` • `Spring Data JPA` • `Maven`
+---
 
-### 🍽️ Recipe Management System
-A backend application for managing recipes with CRUD operations and database integration.
+## 🍽️ Recipe Management System
 
-`Java` • `Spring Boot` • `PostgreSQL`
+Recipe management backend application with CRUD operations.
 
-<br/>
+**Tech Stack**
 
-## 🎯 Current Goals
+- Java
+- Spring Boot
+- PostgreSQL
 
-- 🔐 Learn Spring Security with JWT
-- 🐳 Deepen Docker and containerization skills
-- 🌐 Master API Gateway and Service Discovery patterns
-- 🧩 Improve system design and backend architecture
-- 🌍 Contribute to open-source projects
+---
 
-<br/>
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumyaranjan404&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan404&amp;theme=tokyonight&amp;hide_border=true" width="49%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan404&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan404&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="49%"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan404&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan404&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## 📫 Connect With Me
+# 🌱 Currently Learning
 
-<div align="center">
+- Spring Boot Microservices
+- Spring Security (JWT)
+- Docker
+- API Gateway
+- System Design
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/soumyaranjan404">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add more links below if you have them, e.g.:
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<!-- Add your LinkedIn below -->
+<!--
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 -->
 
-</div>
+<!-- Add your email below -->
+<!--
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+-->
 
-<br/>
+</p>
+
+---
 
 <div align="center">
 
-### *"Keep learning, keep building, and let your projects speak for your skills."*
+### 💡 Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1BFFFF,100:2E3192&amp;height=100&amp;section=footer" width="100%"/>
+> **"Keep learning, keep building, and let your projects speak for your skills."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer"/>
 
 </div>
+````
