@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=220&amp;section=header&amp;text=Soumyaranjan%20404&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=220&amp;section=header&amp;text=Soumyaranjan%20404&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Java%20and%20Spring%20Boot&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/soumyaranjan404">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Microservices+%E2%98%95;Building+Scalable%2C+Clean+APIs+%F0%9F%9A%80;Code+Quality+with+SonarQube+%E2%9C%85;Open+to+Collaboration+%F0%9F%A4%9D&amp;font=Fira%20Code&amp;center=true&amp;width=600&amp;height=45&amp;duration=3000&amp;pause=1000&amp;color=1BFFFF&amp;vCenter=true&amp;size=24"/>
