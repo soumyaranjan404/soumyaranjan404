@@ -79,26 +79,24 @@ public class Soumyaranjan {
 
 <div align="center">
 
-<a href="https://github.com/soumyaranjan404">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyaranjan404&amp;repo=book-management-microservice&amp;theme=tokyonight&amp;hide_border=true" />
+<a href="https://github.com/soumyaranjan404/Recipe-management">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyaranjan404&amp;repo=Recipe-management&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
-<a href="https://github.com/soumyaranjan404">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyaranjan404&amp;repo=recipe-management-system&amp;theme=tokyonight&amp;hide_border=true" />
+<a href="https://github.com/soumyaranjan404/E-SHOP-WEB-APPLICATION">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyaranjan404&amp;repo=E-SHOP-WEB-APPLICATION&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
 
 </div>
 
-> 📝 **Note:** Update the `repo=` values above with your exact repository names so the cards pull live data from GitHub.
-
-### 📚 Book Management Microservice
-A Spring Boot microservices application for managing books using REST APIs.
-
-`Spring Boot` • `Microservices` • `PostgreSQL` • `Spring Data JPA` • `Maven`
-
-### 🍽️ Recipe Management System
+### 🍽️ Recipe Management
 A backend application for managing recipes with CRUD operations and database integration.
 
 `Java` • `Spring Boot` • `PostgreSQL`
+
+### 🛍️ E-Shop Web Application
+A web application where users can browse and order bags online.
+
+`JavaScript` • `Web Application`
 
 <br/>
 
